@@ -1,2 +1,2 @@
 ﻿# Project given by Codeacademy!
- # A script that prints receipts
+ # A script that prints pre-made receipts
